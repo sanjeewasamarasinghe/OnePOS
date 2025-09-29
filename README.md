@@ -12,3 +12,5 @@ OnePOS - Free Version
 Downlode Now
 
 F1,F2,F3,F4,F5,F6 are funtion keys
+
+![20250923_094334](https://github.com/user-attachments/assets/5a084f03-bd59-45b3-92ce-2b5f55f913a7)
